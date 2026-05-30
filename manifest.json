@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Tabliss",
-  "short_name": "Tabliss",
+  "name": "HomeTab",
+  "short_name": "HomeTab",
   "version": "2.6.0",
   "description": "A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.",
   "applications": {
     "gecko": {
-      "id": "new-tab@house",
+      "id": "hometab@house",
       "strict_min_version": "54.0"
     }
   },

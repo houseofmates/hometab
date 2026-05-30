@@ -1,10 +1,10 @@
-# new-tab
+# hometab
 
-a beautiful new tab page with customizable backgrounds and widgets, requiring no permissions.
+a beautiful home tab page with customizable backgrounds and widgets, requiring no permissions.
 
 ## what is this?
 
-a beautiful new tab page with customizable backgrounds and widgets, requiring no permissions.
+a beautiful home tab page with customizable backgrounds and widgets, requiring no permissions.
 
 this is a fork of [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) with a redesigned ui.
 
@@ -14,7 +14,7 @@ this is a fork of the [joelshepherd/tabliss](https://github.com/joelshepherd/tab
 
 ### changes from original
 
-- redesigned the ui with a dark pkm aesthetic. all text is now lowercase. extension renamed from tabliss to new-tab. auto-update checking added.
+- redesigned the ui with a dark pkm aesthetic. all text is now lowercase. extension renamed from tabliss to hometab. auto-update checking added.
 
 ## credits
 
