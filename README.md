@@ -14,7 +14,7 @@ this is a fork of the [joelshepherd/tabliss](https://github.com/joelshepherd/tab
 
 ### changes from original
 
-- redesigned the ui with a dark pkm aesthetic. all text is now lowercase. extension renamed from tabliss to hometab. auto-update checking added.
+- redesigned the ui with a dark house of mates aesthetic. all text is now lowercase. extension renamed from tabliss to hometab. auto-update checking added.
 
 ## credits
 
